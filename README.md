@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vishwahari/75DaysLeetCodeChallenge/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bucket Sort
 |  |
 | ------- |
